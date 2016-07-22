@@ -1,0 +1,46 @@
+
+    
+    body{
+           margin:0 ;
+           padding:0; 
+    }
+        
+      div {
+           margin-left: 40px;
+           margin-right: 40px;
+           position: absolute;
+          }
+
+.cuadrado1{
+           background-color:#ED2251;
+           height:200px;
+           width: 200px;
+           left: 0px;  
+           top: :0px;
+          }
+
+.cuadrado2{
+           background-color:#3A81BA;
+           height:200px;
+           width: 200px;
+           right: 0px;
+           top: 0px;
+           
+          }
+
+.cuadrado3{
+           background-color:#8BAB42;
+           height:200px;
+           width: 200px;
+           left: 0px;
+           bottom: 0px;
+          }
+
+.cuadrado4{
+           background-color:#FFFF00;
+           height:200px;
+           width: 200px;
+           right: 0px;
+           bottom: 0px;
+          }
+

@@ -1,0 +1,35 @@
+   body {
+           margin:0 ;
+           padding:0; 
+           }
+
+      div { 
+           margin-left: 40px;
+           position: relative;
+          }
+
+.cuadrado1{
+           background-color:#ED2251;
+           height:200px;
+           width: 200px;
+          }
+
+.cuadrado2{
+           background-color:#3A81BA;
+           height:200px;
+           width: 200px;
+           left: 200px;
+           position: absolute;
+          }
+
+.cuadrado3{
+           background-color:#8BAB42;
+           height:200px;
+           width: 200px;
+         }
+          
+.cuadrado4{
+           background-color:#FFFF00;
+           height:200px;
+           width: 200px;
+         }
